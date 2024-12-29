@@ -77,7 +77,38 @@ consumers don't just buy directly from the producers and it needs a lot of inter
 
 ![producers and consumers](./img/12.png)
 
+## The law of demand and supply
+
+the amout of items a consumer buys decreases as price increases
+
+![demand vs price](./img/13.png)
+
+whereas the no of items a supplier would like to sell decreses as price decreases since they want to make more profit
+
+![supply vs price](./img/14.png)
+
+![demand vs supply](./img/16.png)
+
+if the shopkeeper keeps the price too high the demand will reduce so that the shopkeeper has to reduce the price
+if the shopkeeper keeps the price too low then demand will increase so that the shopkeeper will increase the price
+
+the above process results in equillibrium price and equllibrium quantity which in this case is
+* equillibrium price = Rs.12.5
+* equillibrium quantity = 15.5 kg
+
+![demand vs supply](./img/15.png)
 
 
+* we can say that price is the result of market actions by consumers and suppliers
 
+* sometimes the price is the outcome of demand
 
+#### Effect of income:
+
+![demand vs supply](./img/17.png)
+
+* It is also possible that at higher income some customers may choose to go with rice instead of wheat (which may be any reason such as rice is easier to cook, etc).
+* This will result in decrease in wheat demand
+* Then wheat is called an inferior good
+
+![demand vs supply](./img/18.png)
